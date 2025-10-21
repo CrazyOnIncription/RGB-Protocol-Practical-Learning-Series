@@ -131,7 +131,7 @@ Special thanks to all the developers who document their experiments, share their
 
 ***
 
-_"The best way to understand a protocol is to build with it, break it, fix it, and document the journey."_ --Aaron Zhang
+_"The best way to understand a protocol is to build with it, break it, fix it, and document the journey."_ — Aaron Zhang
 
 📞\
 **Twitter**: [@zzmjxy](https://twitter.com/zzmjxy)\
